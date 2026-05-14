@@ -10,3 +10,11 @@ git push -u origin main
 pre cmd:-
 $ git config --global user.name "atharavsawant52"
 git config --global user.email "atharavsawant52@gmail.com"
+
+cmd:-
+git status:- track changes in files
+git log:- shows all commits data  in code 
+
+git branch:- 
+git branch:- show your branch
+$ git branch -M main
